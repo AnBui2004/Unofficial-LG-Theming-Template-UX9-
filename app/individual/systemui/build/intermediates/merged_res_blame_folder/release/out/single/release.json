@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_calling_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_calling_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_calling_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_calling_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_sync_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_sync_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_sync_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_sync_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_calling_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_calling_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_calling_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_calling_off_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_sound_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_sound_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_silent_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_silent_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_sound_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_sound_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_vib_off_sound_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_vib_off_sound_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_vibrate_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_vibrate_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_sync_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_sync_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_sync_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_sync_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_sound_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_sound_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_vib_off_sound_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_vib_off_sound_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_vib_off_sound_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_vib_off_sound_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_silent_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_silent_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_calling_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_calling_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_sync_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_sync_off_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_sync_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_sync_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_silent_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_silent_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_calling_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_calling_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_vibrate_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_vibrate_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_vibrate_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_vibrate_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_vib_off_sound_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_vib_off_sound_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_sync_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_sync_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_disabled.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_disabled.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_calling_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_calling_off_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_off_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_calling_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_calling_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_off_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_disabled.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_disabled.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_off_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_vib_off_sound_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_vib_off_sound_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_sync_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_sync_off_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_sync_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_sync_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_sync_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_sync_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_vib_off_sound_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_vib_off_sound_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_disabled.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_disabled.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_calling_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_calling_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_vibrate_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_vibrate_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_silent_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_silent_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_vibrate_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_vibrate_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_sync_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_sync_off_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_calling_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_calling_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_silent_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_silent_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_vibrate_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_vibrate_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_sound_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_sound_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_sound_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_sound_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_wifi_calling_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_wifi_calling_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_silent_on.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_silent_on.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_sync_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_sync_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xhdpi_indi_noti_wifi_off.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xhdpi/indi_noti_wifi_off.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxhdpi_indi_noti_sound_on_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxhdpi/indi_noti_sound_on_ani.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.systemui-merged_res-4:/drawable-xxxhdpi_indi_noti_wifi_calling_off_ani.png.flat",
+        "source": "com.anbui.theme.lge.aosp.systemui-main-5:/drawable-xxxhdpi/indi_noti_wifi_calling_off_ani.png"
+    }
+]

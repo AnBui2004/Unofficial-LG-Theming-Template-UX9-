@@ -1,0 +1,7 @@
+com.anbui.theme.lge.aosp.systemui-pngs-0 /home/ann/Downloads/xxx/app/individual/systemui/build/generated/res/pngs/release
+com.anbui.theme.lge.aosp.systemui-resValues-1 /home/ann/Downloads/xxx/app/individual/systemui/build/generated/res/resValues/release
+com.anbui.theme.lge.aosp.systemui-packageReleaseResources-2 /home/ann/Downloads/xxx/app/individual/systemui/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.anbui.theme.lge.aosp.systemui-packageReleaseResources-3 /home/ann/Downloads/xxx/app/individual/systemui/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.anbui.theme.lge.aosp.systemui-merged_res-4 /home/ann/Downloads/xxx/app/individual/systemui/build/intermediates/merged_res/release
+com.anbui.theme.lge.aosp.systemui-main-5 /home/ann/Downloads/xxx/app/individual/systemui/src/main/res
+com.anbui.theme.lge.aosp.systemui-release-6 /home/ann/Downloads/xxx/app/individual/systemui/src/release/res

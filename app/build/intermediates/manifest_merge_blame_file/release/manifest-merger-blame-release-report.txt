@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.anbui.theme.lge.aosp"
+4    android:compileSdkVersion="29"
+5    android:compileSdkVersionCodename="10"
+6    android:versionCode="1"
+7    android:versionName="1.0" >
+8
+9    <uses-sdk
+10        android:minSdkVersion="29"
+11        android:targetSdkVersion="34" />
+12
+13    <uses-permission android:name="android.permission.REORDER_TASKS" />
+13-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:24:5-72
+13-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:24:22-69
+14
+15    <queries>
+15-->[androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:24:5-28:15
+16        <package android:name="androidx.test.orchestrator" />
+16-->[androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:25:9-62
+16-->[androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:25:18-59
+17        <package android:name="androidx.test.services" />
+17-->[androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:26:9-58
+17-->[androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:26:18-55
+18        <package android:name="com.google.android.apps.common.testing.services" />
+18-->[androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:27:9-83
+18-->[androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:27:18-80
+19    </queries>
+20
+21    <application
+21-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:5-13:19
+22        android:allowBackup="true"
+22-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:18-44
+23        android:extractNativeLibs="false"
+24        android:hasCode="false"
+24-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:45-68
+25        android:label="LGThemeTemplate" >
+25-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:69-100
+26        <meta-data
+26-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:4:9-96
+27            android:name="com.lge.theme.name"
+27-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:4:20-53
+28            android:value="com.anbui.theme.lge.aosp" />
+28-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:4:54-94
+29        <meta-data
+29-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:5:9-84
+30            android:name="com.lge.theme.profile_version"
+30-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:5:20-64
+31            android:value="9" />
+31-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:5:65-82
+32        <meta-data
+32-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:6:9-107
+33            android:name="com.lge.theme.build_tool_version"
+33-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:6:20-67
+34            android:value="Win_Master_4.0.0_3575" />
+34-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:6:68-105
+35        <meta-data
+35-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:7:9-90
+36            android:name="com.lge.theme.refuse_to_display"
+36-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:7:20-66
+37            android:value="false" />
+37-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:7:67-88
+38        <meta-data
+38-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:8:9-99
+39            android:name="com.lge.theme.support_backup_and_restore"
+39-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:8:20-75
+40            android:value="false" />
+40-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:8:76-97
+41        <meta-data
+41-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:9:9-77
+42            android:name="com.lge.theme.category"
+42-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:9:20-57
+43            android:value="1" />
+43-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:9:58-75
+44        <meta-data
+44-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:10:9-91
+45            android:name="com.lge.theme.theme_designer_name"
+45-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:10:20-68
+46            android:value="None" />
+46-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:10:69-89
+47        <meta-data
+47-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:11:9-100
+48            android:name="com.lge.theme.theme_designer_email_address"
+48-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:11:20-77
+49            android:value="None" />
+49-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:11:78-98
+50        <meta-data
+50-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:12:9-99
+51            android:name="com.lge.theme.theme_designer_company_name"
+51-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:12:20-76
+52            android:value="None" />
+52-->D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:12:77-97
+53
+54        <activity
+54-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:27:9-34:20
+55            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+55-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:28:13-99
+56            android:exported="true"
+56-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:29:13-36
+57            android:theme="@style/WhiteBackgroundTheme" >
+57-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:30:13-56
+58            <intent-filter android:priority="-100" >
+58-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:31:13-33:29
+58-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:31:28-51
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:32:17-77
+59-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:32:27-74
+60            </intent-filter>
+61        </activity>
+62        <activity
+62-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:35:9-42:20
+63            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+63-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:36:13-95
+64            android:exported="true"
+64-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:37:13-36
+65            android:theme="@style/WhiteBackgroundTheme" >
+65-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:38:13-56
+66            <intent-filter android:priority="-100" >
+66-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:31:13-33:29
+66-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:31:28-51
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:32:17-77
+67-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:32:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:43:9-50:20
+71            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+71-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:44:13-103
+72            android:exported="true"
+72-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:45:13-36
+73            android:theme="@style/WhiteBackgroundDialogTheme" >
+73-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:46:13-62
+74            <intent-filter android:priority="-100" >
+74-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:31:13-33:29
+74-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:31:28-51
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:32:17-77
+75-->[androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:32:27-74
+76            </intent-filter>
+77        </activity>
+78    </application>
+79
+80</manifest>

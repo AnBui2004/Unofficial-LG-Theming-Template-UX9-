@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable theme_preview_0
+drawable theme_preview_1
+string application_label

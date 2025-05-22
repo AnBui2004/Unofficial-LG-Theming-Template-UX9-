@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/individual" />
+            <option value="$PROJECT_DIR$/app/individual/alarmclock" />
+            <option value="$PROJECT_DIR$/app/individual/bnr" />
+            <option value="$PROJECT_DIR$/app/individual/calender" />
+            <option value="$PROJECT_DIR$/app/individual/camera" />
+            <option value="$PROJECT_DIR$/app/individual/centerapp" />
+            <option value="$PROJECT_DIR$/app/individual/common" />
+            <option value="$PROJECT_DIR$/app/individual/contacts" />
+            <option value="$PROJECT_DIR$/app/individual/email" />
+            <option value="$PROJECT_DIR$/app/individual/filemanager" />
+            <option value="$PROJECT_DIR$/app/individual/fmradio" />
+            <option value="$PROJECT_DIR$/app/individual/gallery3d" />
+            <option value="$PROJECT_DIR$/app/individual/gamelauncher" />
+            <option value="$PROJECT_DIR$/app/individual/hifirecorder" />
+            <option value="$PROJECT_DIR$/app/individual/home" />
+            <option value="$PROJECT_DIR$/app/individual/lifetracker" />
+            <option value="$PROJECT_DIR$/app/individual/mms" />
+            <option value="$PROJECT_DIR$/app/individual/music" />
+            <option value="$PROJECT_DIR$/app/individual/phonemanagement" />
+            <option value="$PROJECT_DIR$/app/individual/qmemoplus" />
+            <option value="$PROJECT_DIR$/app/individual/settings" />
+            <option value="$PROJECT_DIR$/app/individual/systemui" />
+            <option value="$PROJECT_DIR$/app/individual/tdmb" />
+            <option value="$PROJECT_DIR$/app/individual/updatecenter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

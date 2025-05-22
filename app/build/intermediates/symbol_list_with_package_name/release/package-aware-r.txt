@@ -1,0 +1,6 @@
+com.anbui.theme.lge.aosp
+drawable theme_preview_0
+drawable theme_preview_1
+string application_label
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

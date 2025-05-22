@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.anbui.theme.lge.aosp.app-mergeReleaseResources-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\buing\\.gradle\\caches\\transforms-3\\209a23a637d87a632e8a17b56a18af9f\\transformed\\jetified-core-1.6.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,11",
+                        "startColumns": "0,0",
+                        "startOffsets": "142,510",
+                        "endLines": "10,17",
+                        "endColumns": "8,8",
+                        "endOffsets": "509,875"
+                    },
+                    "to": {
+                        "startLines": "3,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "117,489",
+                        "endLines": "9,16",
+                        "endColumns": "8,8",
+                        "endOffsets": "484,854"
+                    }
+                },
+                {
+                    "source": "D:\\GitHub Clone\\Unofficial-LG-Theming-Template-UX9-\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "61",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "61",
+                        "endOffsets": "112"
+                    }
+                }
+            ]
+        }
+    ]
+}

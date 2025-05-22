@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+drawable indi_noti_silent_on
+drawable indi_noti_silent_on_ani
+drawable indi_noti_sound_on
+drawable indi_noti_sound_on_ani
+drawable indi_noti_sync_off
+drawable indi_noti_sync_off_ani
+drawable indi_noti_sync_on
+drawable indi_noti_sync_on_ani
+drawable indi_noti_vib_off_sound_on
+drawable indi_noti_vib_off_sound_on_ani
+drawable indi_noti_vibrate_on
+drawable indi_noti_vibrate_on_ani
+drawable indi_noti_wifi_calling_off
+drawable indi_noti_wifi_calling_off_ani
+drawable indi_noti_wifi_calling_on
+drawable indi_noti_wifi_calling_on_ani
+drawable indi_noti_wifi_disabled
+drawable indi_noti_wifi_off
+drawable indi_noti_wifi_off_ani
+drawable indi_noti_wifi_on
+drawable indi_noti_wifi_on_ani

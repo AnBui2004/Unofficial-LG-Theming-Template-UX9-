@@ -3,15 +3,16 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
-    buildToolsVersion "30.0.2"
+    namespace 'com.anbui.theme.lge.aosp.common'
+    compileSdk 34
+    buildToolsVersion "34.0.0"
 
     lintOptions {
         abortOnError false
     }
 
     defaultConfig {
-        applicationId 'com.lgthemetemplate.common'
+        applicationId 'com.anbui.theme.lge.aosp.common'
         minSdkVersion 29
         targetSdkVersion 30
         versionCode 24
@@ -19,8 +20,8 @@ android {
     }
     buildTypes {
         release {
-            minifyEnabled true
-            shrinkResources true
+            minifyEnabled false
+            shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             android.applicationVariants.all { variant ->
                 variant.outputs.each { output ->
@@ -33,7 +34,8 @@ android {
             }
         }
         debug {
-            debuggable false
+            minifyEnabled false
+            shrinkResources false
         }
     }
 }

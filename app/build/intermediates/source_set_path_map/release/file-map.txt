@@ -1,0 +1,9 @@
+com.anbui.theme.lge.aosp.app-jetified-core-1.6.1-0 C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\res
+com.anbui.theme.lge.aosp.app-jetified-tracing-1.1.0-1 C:\Users\buing\.gradle\caches\transforms-3\fe89903fdf0a15b7614bce25b7b2ef35\transformed\jetified-tracing-1.1.0\res
+com.anbui.theme.lge.aosp.app-pngs-2 D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\build\generated\res\pngs\release
+com.anbui.theme.lge.aosp.app-resValues-3 D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\build\generated\res\resValues\release
+com.anbui.theme.lge.aosp.app-packageReleaseResources-4 D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.anbui.theme.lge.aosp.app-packageReleaseResources-5 D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.anbui.theme.lge.aosp.app-merged_res-6 D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\build\intermediates\merged_res\release
+com.anbui.theme.lge.aosp.app-main-7 D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\res
+com.anbui.theme.lge.aosp.app-release-8 D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\release\res

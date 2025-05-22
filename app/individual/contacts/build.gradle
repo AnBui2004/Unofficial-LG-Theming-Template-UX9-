@@ -3,25 +3,26 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
-    buildToolsVersion "30.0.2"
+    namespace 'com.anbui.theme.lge.aosp.contacts'
+    compileSdk 34
+    buildToolsVersion "34.0.0"
 
     lintOptions {
         abortOnError false
     }
 
     defaultConfig {
-        applicationId 'com.lgthemetemplate.contacts'
+        applicationId 'com.anbui.theme.lge.aosp.contacts'
         minSdkVersion 29
         targetSdkVersion 30
         versionCode 24
         versionName "7.0"
+        proguardFiles getDefaultProguardFile('proguard-android.txt')
     }
     buildTypes {
         release {
-            minifyEnabled true
-            shrinkResources true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            shrinkResources false
+            signingConfig signingConfigs.debug
             android.applicationVariants.all { variant ->
                 variant.outputs.each { output ->
                     def outputDirPath = new File("${project.rootDir}/app/src/main/assets/overlays")
@@ -33,7 +34,9 @@ android {
             }
         }
         debug {
-            debuggable false
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
 }

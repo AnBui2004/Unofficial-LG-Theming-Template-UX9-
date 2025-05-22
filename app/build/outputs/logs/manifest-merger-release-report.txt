@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.test.espresso:espresso-core:3.6.1] C:\Users\buing\.gradle\caches\transforms-3\a2b078f0607fbebd6b72ed5fd5fca794\transformed\espresso-core-3.6.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.ext:junit:1.2.1] C:\Users\buing\.gradle\caches\transforms-3\f86f86cd83ab29031095d11d5809a718\transformed\jetified-junit-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.test.services:storage:1.5.0] C:\Users\buing\.gradle\caches\transforms-3\cbfbac9a63fc0adeb2eb7e34880bda4f\transformed\jetified-storage-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.7.1] C:\Users\buing\.gradle\caches\transforms-3\b2a821d0d465a6b7ca77054d3fd05eec\transformed\monitor-1.7.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\buing\.gradle\caches\transforms-3\fe89903fdf0a15b7614bce25b7b2ef35\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.6.1] C:\Users\buing\.gradle\caches\transforms-3\92aabd243341e3a6628173709e7d885e\transformed\espresso-idling-resource-3.6.1\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:2:140-174
+		INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml
+	android:compileSdkVersionCodename
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:2:101-139
+	android:versionName
+		INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml
+	android:compileSdkVersion
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:2:70-100
+	android:versionCode
+		INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:5-13:19
+INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:5-13:19
+MERGED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:30:5-20
+MERGED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:30:5-20
+	android:extractNativeLibs
+		INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:69-100
+	android:hasCode
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:45-68
+	android:allowBackup
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:3:18-44
+meta-data#com.lge.theme.name
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:4:9-96
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:4:54-94
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:4:20-53
+meta-data#com.lge.theme.profile_version
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:5:9-84
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:5:65-82
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:5:20-64
+meta-data#com.lge.theme.build_tool_version
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:6:9-107
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:6:68-105
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:6:20-67
+meta-data#com.lge.theme.refuse_to_display
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:7:9-90
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:7:67-88
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:7:20-66
+meta-data#com.lge.theme.support_backup_and_restore
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:8:9-99
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:8:76-97
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:8:20-75
+meta-data#com.lge.theme.category
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:9:9-77
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:9:58-75
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:9:20-57
+meta-data#com.lge.theme.theme_designer_name
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:10:9-91
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:10:69-89
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:10:20-68
+meta-data#com.lge.theme.theme_designer_email_address
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:11:9-100
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:11:78-98
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:11:20-77
+meta-data#com.lge.theme.theme_designer_company_name
+ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:12:9-99
+	android:value
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:12:77-97
+	android:name
+		ADDED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml:12:20-76
+uses-sdk
+INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml
+MERGED from [androidx.test.espresso:espresso-core:3.6.1] C:\Users\buing\.gradle\caches\transforms-3\a2b078f0607fbebd6b72ed5fd5fca794\transformed\espresso-core-3.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.6.1] C:\Users\buing\.gradle\caches\transforms-3\a2b078f0607fbebd6b72ed5fd5fca794\transformed\espresso-core-3.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.2.1] C:\Users\buing\.gradle\caches\transforms-3\f86f86cd83ab29031095d11d5809a718\transformed\jetified-junit-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.2.1] C:\Users\buing\.gradle\caches\transforms-3\f86f86cd83ab29031095d11d5809a718\transformed\jetified-junit-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.5.0] C:\Users\buing\.gradle\caches\transforms-3\cbfbac9a63fc0adeb2eb7e34880bda4f\transformed\jetified-storage-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.5.0] C:\Users\buing\.gradle\caches\transforms-3\cbfbac9a63fc0adeb2eb7e34880bda4f\transformed\jetified-storage-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.7.1] C:\Users\buing\.gradle\caches\transforms-3\b2a821d0d465a6b7ca77054d3fd05eec\transformed\monitor-1.7.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.7.1] C:\Users\buing\.gradle\caches\transforms-3\b2a821d0d465a6b7ca77054d3fd05eec\transformed\monitor-1.7.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\buing\.gradle\caches\transforms-3\fe89903fdf0a15b7614bce25b7b2ef35\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\buing\.gradle\caches\transforms-3\fe89903fdf0a15b7614bce25b7b2ef35\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.6.1] C:\Users\buing\.gradle\caches\transforms-3\92aabd243341e3a6628173709e7d885e\transformed\espresso-idling-resource-3.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.6.1] C:\Users\buing\.gradle\caches\transforms-3\92aabd243341e3a6628173709e7d885e\transformed\espresso-idling-resource-3.6.1\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GitHub Clone\Unofficial-LG-Theming-Template-UX9-\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:31:28-51
+category#android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:32:27-74
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\209a23a637d87a632e8a17b56a18af9f\transformed\jetified-core-1.6.1\AndroidManifest.xml:44:13-103
+queries
+ADDED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:24:5-28:15
+package#androidx.test.orchestrator
+ADDED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:25:18-59
+package#androidx.test.services
+ADDED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:26:18-55
+package#com.google.android.apps.common.testing.services
+ADDED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from [androidx.test:runner:1.6.1] C:\Users\buing\.gradle\caches\transforms-3\a1185a4b4b5ddb628033bd9df30a6540\transformed\runner-1.6.1\AndroidManifest.xml:27:18-80

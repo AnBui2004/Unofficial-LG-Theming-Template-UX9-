@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anbui.theme.lge.aosp.systemui"
+    platformBuildVersionCode="24"
+    platformBuildVersionName="7.0"
+    android:compileSdkVersion="29"
+    android:compileSdkVersionCodename="10"
+    android:versionCode="24"
+    android:versionName="7.0" >
+
+    <uses-sdk
+        android:minSdkVersion="29"
+        android:targetSdkVersion="30" />
+
+    <overlay
+        android:priority="11"
+        android:targetPackage="com.android.systemui" />
+
+    <meta-data
+        android:name="com.parent_name"
+        android:value="com.anbui.theme.lge.aosp" />
+
+    <application
+        android:allowBackup="false"
+        android:extractNativeLibs="false"
+        android:hasCode="false" />
+
+</manifest>

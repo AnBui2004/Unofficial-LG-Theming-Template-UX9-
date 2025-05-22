@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anbui.theme.lge.aosp"
+    android:compileSdkVersion="29"
+    android:compileSdkVersionCodename="10"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="29"
+        android:targetSdkVersion="34" />
+
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
+
+    <queries>
+        <package android:name="androidx.test.orchestrator" />
+        <package android:name="androidx.test.services" />
+        <package android:name="com.google.android.apps.common.testing.services" />
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:extractNativeLibs="false"
+        android:hasCode="false"
+        android:label="LGThemeTemplate" >
+        <meta-data
+            android:name="com.lge.theme.name"
+            android:value="com.anbui.theme.lge.aosp" />
+        <meta-data
+            android:name="com.lge.theme.profile_version"
+            android:value="9" />
+        <meta-data
+            android:name="com.lge.theme.build_tool_version"
+            android:value="Win_Master_4.0.0_3575" />
+        <meta-data
+            android:name="com.lge.theme.refuse_to_display"
+            android:value="false" />
+        <meta-data
+            android:name="com.lge.theme.support_backup_and_restore"
+            android:value="false" />
+        <meta-data
+            android:name="com.lge.theme.category"
+            android:value="1" />
+        <meta-data
+            android:name="com.lge.theme.theme_designer_name"
+            android:value="None" />
+        <meta-data
+            android:name="com.lge.theme.theme_designer_email_address"
+            android:value="None" />
+        <meta-data
+            android:name="com.lge.theme.theme_designer_company_name"
+            android:value="None" />
+
+        <activity
+            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+            android:exported="true"
+            android:theme="@style/WhiteBackgroundTheme" >
+            <intent-filter android:priority="-100" >
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+            android:exported="true"
+            android:theme="@style/WhiteBackgroundTheme" >
+            <intent-filter android:priority="-100" >
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+            android:exported="true"
+            android:theme="@style/WhiteBackgroundDialogTheme" >
+            <intent-filter android:priority="-100" >
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.anbui.theme.lge.aosp.systemui",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 24,
+      "versionName": "7.0",
+      "outputFile": "com.anbui.theme.lge.aosp.systemui.apk"
+    }
+  ],
+  "elementType": "File"
+}

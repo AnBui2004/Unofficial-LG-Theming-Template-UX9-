@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/ann/Downloads/xxx/app/individual/systemui"
+    name=":app:individual:systemui"
+    type="APP"
+    maven="LGThemeTemplate.app.individual:systemui:"
+    agpVersion="8.1.2"
+    buildFolder="build"
+    bootClassPath="/home/ann/Android/Sdk/platforms/android-34/android.jar:/home/ann/Android/Sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

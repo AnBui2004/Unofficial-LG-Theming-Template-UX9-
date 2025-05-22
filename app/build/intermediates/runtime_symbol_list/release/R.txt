@@ -1,0 +1,5 @@
+int drawable theme_preview_0 0x7f010000
+int drawable theme_preview_1 0x7f010001
+int string application_label 0x7f020000
+int style WhiteBackgroundDialogTheme 0x7f030000
+int style WhiteBackgroundTheme 0x7f030001

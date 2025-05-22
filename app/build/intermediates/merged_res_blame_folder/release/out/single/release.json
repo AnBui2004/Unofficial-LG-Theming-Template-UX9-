@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.anbui.theme.lge.aosp.app-merged_res-6:/drawable-xhdpi-v4_theme_preview_1.png.flat",
+        "source": "com.anbui.theme.lge.aosp.app-main-7:/drawable-xhdpi-v4/theme_preview_1.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.app-merged_res-6:/drawable-xxxhdpi-v4_theme_preview_0.png.flat",
+        "source": "com.anbui.theme.lge.aosp.app-main-7:/drawable-xxxhdpi-v4/theme_preview_0.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.app-merged_res-6:/drawable-xxhdpi-v4_theme_preview_0.png.flat",
+        "source": "com.anbui.theme.lge.aosp.app-main-7:/drawable-xxhdpi-v4/theme_preview_0.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.app-merged_res-6:/drawable-xxhdpi-v4_theme_preview_1.png.flat",
+        "source": "com.anbui.theme.lge.aosp.app-main-7:/drawable-xxhdpi-v4/theme_preview_1.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.app-merged_res-6:/drawable-xxxhdpi-v4_theme_preview_1.png.flat",
+        "source": "com.anbui.theme.lge.aosp.app-main-7:/drawable-xxxhdpi-v4/theme_preview_1.png"
+    },
+    {
+        "merged": "com.anbui.theme.lge.aosp.app-merged_res-6:/drawable-xhdpi-v4_theme_preview_0.png.flat",
+        "source": "com.anbui.theme.lge.aosp.app-main-7:/drawable-xhdpi-v4/theme_preview_0.png"
+    }
+]

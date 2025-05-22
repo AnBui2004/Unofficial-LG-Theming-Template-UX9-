@@ -1,0 +1,4 @@
+#Thu May 22 22:00:04 ICT 2025
+base.0=D\:\\GitHub Clone\\Unofficial-LG-Theming-Template-UX9-\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
